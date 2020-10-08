@@ -196,7 +196,7 @@
 				<img src="img/services.png" id="icon">
 			</div>
 			<div class="col-sm-4">
-				<h2>Web Designing Services</h2>
+				<h2>Designing Services</h2>
 				
 						<h3><a href="#hidden1" data-toggle="collapse">Details</a></h3>
 					<div id="hidden1" class="collapse">
